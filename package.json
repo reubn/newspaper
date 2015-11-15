@@ -1,0 +1,24 @@
+{
+  "name": "newspaper",
+  "version": "0.1.0",
+  "description": "Ultimate Logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "client",
+    "console"
+  ],
+  "author": "Reuben Eggar",
+  "license": "MIT",
+  "devDependencies": {
+    "@reubn/eslint-config-reubn": "^1.0.0",
+    "babel-eslint": "^4.1.5",
+    "eslint": "^1.9.0",
+    "eslint-config-airbnb": "^1.0.0",
+    "eslint-plugin-react": "^3.8.0"
+  }
+}
